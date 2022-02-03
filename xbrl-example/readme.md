@@ -1,0 +1,1 @@
+http://xbrl.squarespace.com/journal/2008/12/18/hello-world-xbrl-example.html
